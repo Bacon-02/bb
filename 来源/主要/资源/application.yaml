@@ -6,7 +6,7 @@ server:
 wechat:
   config:
     #配置一个文字的模板ID
-    singleTemplateId:
+    singleTemplateId: UDcG8yIZT_E0NQW00EdSOOkJLwo6toLYKqAMmJz5LkY
     template:
       #早安模板
       morningTemplate:
@@ -37,7 +37,7 @@ wechat:
       emoticonsTemplate:
         templateId: ZiZixYGODUmzLeqnjKqSgrzMUrl-4w0BSDUbHi6poIM	
         allSend: true
-        filterOpenIds:
+        filterOpenIds: okM1-556siqU2LPx_ksSZrovuDjU
         parameter:
           default:
             title: 1
